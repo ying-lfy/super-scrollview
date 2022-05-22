@@ -18,9 +18,3 @@
 * SuperLayout.scrollToHeader 滚动到起始位置
 * SuperLayout.scrollToFooter 滚动到结束位置
 * SuperLayout.scrollToIndex  滚动到指定位置
-* 喜欢的话别忘记点个 Star 谢谢
-
-# 撸码不易 手头宽裕打个赏 谢谢
-
-<img src="https://icipiqkm.github.io/image/photo_2021-08-02_00-42-34.jpg" width="357">
-<img src="https://icipiqkm.github.io/image/photo_2021-08-02_00-43-03.jpg" width="357">
